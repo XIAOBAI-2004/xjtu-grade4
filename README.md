@@ -43,3 +43,8 @@
 
 ## 五、计算题
 b站上某视频讲过的原题：https://www.bilibili.com/video/BV1ec411Z7wh?spm_id_from=333.788.videopod.episodes&vd_source=c5b85a231321cabdafadeeb65a9d7c0a&p=5
+
+
+# 电力系统暂态分析
+
+
